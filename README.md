@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Hey+there+👋;+I'm+Atharva+Bakale!;AI+Automation+Builder+🚀;Full-Stack+Developer+💻;Always+Learning+%26+Building+🔥" alt="Typing SVG" />
+</h1>
 
-<!--
-**AtharvaBakale13/AtharvaBakale13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/atharvabakale13"><img src="https://img.shields.io/github/followers/atharvabakale?label=Followers&style=for-the-badge&logo=github" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Building **AI Automation Systems** to 100k/month  
+- 💡 Passionate about **AI, Web Dev, and Digital Products**  
+- 🌱 Currently learning **Next.js, LangChain, and Automation APIs**  
+- ⚡ Fun fact: I love turning ideas into scalable systems  
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,python,fastapi,django,mongodb,postgresql,mysql,redis,docker,git,github,linux,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvabakale&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvabakale&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🌐 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvabakale&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🎯 Current Focus
+✔ Building an **AI Automation Kit** 💼  
+✔ Scaling **SaaS + Digital Products** 📈  
+✔ Growing my **developer & creator brand** ✨  
+
+---
+
+### 📬 Let's Connect
+<p align="center">
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ From [Atharva Bakale](https://github.com/atharvabakale)
