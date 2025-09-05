@@ -35,7 +35,7 @@
 
 ### 🌐 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvabakale&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvabakale13&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -47,13 +47,4 @@
 
 ---
 
-### 📬 Let's Connect
-<p align="center">
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-⭐️ From [Atharva Bakale](https://github.com/atharvabakale)
+⭐️ From [Atharva Bakale](https://github.com/atharvabakale13)
